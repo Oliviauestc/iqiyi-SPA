@@ -1,6 +1,6 @@
-# likemovies
+# iqiyi-SPA
 
-> A Vue.js project
+> A SPA project developed with Vue and vue-router
 
 ## Build Setup
 
